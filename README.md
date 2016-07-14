@@ -1,5 +1,3 @@
 # hello-world.c
 
-This is my "Hello, world" entry as is customary when starting programming.
-
-It is written in C
+This is where I will store my projects coded in C from CS50.
